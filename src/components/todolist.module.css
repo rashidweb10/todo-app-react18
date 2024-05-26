@@ -1,0 +1,15 @@
+.listData {
+  background-color: white;
+  border-bottom: 1px solid #333;
+  padding: 20px 30px;
+  width: 500px;
+  margin: 0px auto;
+  margin-top: 10px;
+}
+
+span.completed {
+  text-decoration: line-through;
+}
+.completed {
+  text-decoration: line-through;
+}
